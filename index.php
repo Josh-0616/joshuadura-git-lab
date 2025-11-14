@@ -1,5 +1,3 @@
-<h1>Hello Git!</h1>
-
 <?php
 // This function creates a random password based on user-selected criteria.
 function generate_password($length = 12, $use_letters = true, $use_numbers = true, $use_symbols = true) {
